@@ -1,4 +1,5 @@
 # java-spring-Data-JPA-alura
+## Utilizando MySql como banco de dados
 ## Repositórios, Consultas, Projeções e Specifications
 #### Operações CRUD
 #### Derived Queries, JPQL e Native Queries
